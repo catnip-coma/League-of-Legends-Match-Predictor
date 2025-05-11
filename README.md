@@ -42,7 +42,8 @@ The model demonstrated promising predictive capability:
 >(Further optimization strategies are planned to enhance performance.)
 
 # Course Context
-This project was the final graded assignment for the IBM course: > Introduction to Neural Networks and PyTorch – IBM (Coursera)
+This project was the final graded assignment of the IBM course:
+> **[Introduction to Neural Networks and PyTorch – IBM (Coursera)](https://coursera.org/verify/SDO0357ZFEHG)**
 
 # Future Enhancements
 - Applying deep learning architectures for better predictive accuracy
